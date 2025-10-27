@@ -17,5 +17,5 @@ I'm a self-taught Data Analyst with a background in Applied Microbiology and Bre
 - Tableau
 
 ## Connect with Me
-- Email: ifeomaigwetu2016@gmail.com
+- [Email](ifeomaigwetu2016@gmail.com)
 - [LinkedIn](www.linkedin.com/in/ifeoma-igwetu)
