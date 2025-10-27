@@ -9,7 +9,7 @@ I'm a self-taught Data Analyst with a background in Applied Microbiology and Bre
 - My SQL
 
 ## My Projects
-- Coffee Consumer Survey Analysis (.....)
+- [Coffee Consumer Survey Analysis](https://github.com/Ifeoma-portfoilo/Coffee-Consumer-Survey-Analysis)
 - [Obesity Rate Analysis](https://github.com/Ifeoma-portfoilo/Obesity-Rate-Analysis)
 
 ## Currently Learning
