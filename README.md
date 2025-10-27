@@ -18,4 +18,4 @@ I'm a self-taught Data Analyst with a background in Applied Microbiology and Bre
 
 ## Connect with Me
 - Email: ifeomaigwetu2016@gmail.com
-- [LinkedIn] (www.linkedin.com/in/ifeoma-igwetu)
+- [LinkedIn](www.linkedin.com/in/ifeoma-igwetu)
