@@ -9,8 +9,8 @@ I'm a self-taught Data Analyst with a background in Applied Microbiology and Bre
 - My SQL
 
 ## My Projects
-Coffee Consumer Survey Analysis (.....)
-Obesity Rate Analysis (.......)
+- Coffee Consumer Survey Analysis (.....)
+- Obesity Rate Analysis (.......)
 
 ## Currently Learning
 - Advanced SQL
